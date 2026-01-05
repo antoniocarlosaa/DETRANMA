@@ -1,0 +1,5 @@
+{
+  "name": "DETRAN-MA Smart Consult",
+  "description": "Uma ferramenta inteligente para consulta e organização de débitos veiculares do DETRAN Maranhão. Utilize IA para extrair e somar automaticamente IPVA, taxas e multas.",
+  "requestFramePermissions": []
+}
